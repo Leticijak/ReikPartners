@@ -22,6 +22,7 @@ body {
   color: #fff;
   font-weight: lighter;
   word-spacing: 20px;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
 }
 @media (max-width: 600px) {
   #logo {
