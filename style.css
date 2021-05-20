@@ -15,9 +15,17 @@ body {
   font-size: 33px;
   color: #fff;
 }
+#reik {
+  margin-top: 350px;
+  font-family: 'Cinzel', serif;
+  color: #fff;
+  font-size: 4rem;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.9);
+  letter-spacing: 2px;
+  font-weight: bold;
+}
 
 .container h3 {
-  margin-top: 350px;
   font-family: 'Cinzel', serif;
   color: #fff;
   font-weight: lighter;
@@ -27,6 +35,10 @@ body {
 @media (max-width: 600px) {
   #logo {
     width: 100px;
+  }
+  #reik {
+    margin-top: 250px;
+    font-size: 2.3rem;
   }
   .container h3 {
     font-size: 1rem;
