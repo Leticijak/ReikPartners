@@ -1,5 +1,5 @@
 # Just a cover for a webpage
-### [Live view]{htttps://www.reikpartners.com}
+### [Live view]{https://www.reikpartners.com}
 
 
 ##Intro 
